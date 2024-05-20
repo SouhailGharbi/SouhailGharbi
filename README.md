@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @Souhail Gharbi</h1> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gharbi06&label=Profile%20views&color=0e75b6&style=flat" alt="Souhail Gharbi" /> </p> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SouhailGharbi&label=Profile%20views&color=0e75b6&style=flat" alt="Souhail Gharbi" /> </p> <br>
 👀 Data Analyst | SQL | Python | R | Power BI
 
 🌱 I'm a data analyst with a passion for transforming raw data into actionable insights.
@@ -94,9 +94,9 @@ Feel free to reach out if you have any interesting projects or opportunities.
 
 📬 Contact:
 Email: souhail.gharbi@esprit.tn
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gharbi06&show_icons=true&locale=en&layout=compact" alt="Souhail Gharbi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SouhailGharbi&show_icons=true&locale=en&layout=compact" alt="Souhail Gharbi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gharbi06&show_icons=true&locale=en" alt="Souhail Gharbi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SouhailGharbi&show_icons=true&locale=en" alt="Souhail Gharbi" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gharbi06&" alt="Souhail Gharbi" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SouhailGharbi&" alt="Souhail Gharbi" /></p>
 
