@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @Souhail Gharbi</h1> 
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=000000&center=FAUX&vCenter=FAUX&repeat=vrai&random=FAUX&width=600&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+%40Souhail+Gharbi" alt="Typing SVG" /></h1> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SouhailGharbi&label=Profile%20views&color=0e75b6&style=flat" alt="Souhail Gharbi" /> </p> <br>
 👀 Data Analyst | SQL | Python | R | Power BI
 
